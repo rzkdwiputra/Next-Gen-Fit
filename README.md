@@ -2,7 +2,8 @@
 # Next-Gen-Fit
 ============================================================================
 
-clothing size selection recommendations for women Product Mechine Learning
+clothing size selection recommendations for women Product Mechine Learning with Content-based filtering and using Regresi Model
+
 
 **Team Development**
 1. Teuku Muhammad Saif : Front-end development
